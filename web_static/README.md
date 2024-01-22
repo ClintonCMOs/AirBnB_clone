@@ -1,3 +1,4 @@
-static web-design for Airbnb clone
+Web-design for Airbnb clone
+
 0x01. AirBnB clone - Web static
 ~                               
